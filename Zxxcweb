@@ -1,1 +1,348 @@
-a
+{
+  "title": "My games",
+  "longTitle": "Games",
+  "description": "The default feed",
+  "thumbnail": "https://www.dropbox.com/scl/fi/9y1juvw5pzhm3x7hcvld7/output-onlinepngtools.png?rlkey=1s4pmnf5p8n3wb92ye47o5ufd&dl=0",
+  "background": "https://i.imgur.com/O43ZrLe.jpeg",
+  "categories": [
+    {
+      "title": "XSNESX",
+      "longTitle": "XSNESX",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/snes-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/snes-thumb.png",
+      "description": "XSNESX",
+      "items": [
+        {
+          "title": "Donkey Kong Country",
+          "longTitle": "Donkey Kong Country (USA) (Rev 2)",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Donkey%20Kong%20Country%20(USA)%20(Rev%202).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Donkey%20Kong%20Country%20(USA)%20(Rev%202).png",
+          "description": "Donkey Kong Country is a Jump & Run released in 1994 for the SNES. Challenged by the crazed tribe of reptilian Kremlings & King K. Rool, Donkey & Diddy Kong face their cunning adversaries armed with lightning-quick moves, chest-pounding muscle, and awesome aerial acrobatics. The duo also gets help from a host of friends and family - from Funky Kong, Cranky Kong and Candy Kong, to Rambi the rhino, Expresso the ostrich, Enguarde the swordfish, Squawks the parrot and Winky the frog. Explore over 30 levels plus dozens of hidden caves or secret rooms and discover every corner of the maps to help the Kongs recovering their stolen banana hoard!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/4x0e9fgzfuz14uttu9lic/Donkey-Kong-Country-U-V1.2.smc?rlkey=bfj05eywv33s5tzjnmvl7pmnr&dl=1"
+          },
+          "added": 1694986980258
+        },
+        {
+          "title": "Super Mario World 2 - Yoshi's Island",
+          "longTitle": "Super Mario World 2 - Yoshi's Island (USA) (Rev 1)",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Super%20Mario%20World%202%20-%20Yoshi's%20Island%20(USA)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Super%20Mario%20World%202%20-%20Yoshi's%20Island%20(USA)%20(Rev%201).png",
+          "description": "The Evil Magikoopa, Kamek, is out to kidnap Baby Mario!  In this sequel to Super Mario World, you play as Yoshi.  Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek's clever traps and evil minions.  Enjoy the various backgrounds of the rich and vibrant locales of Yoshi's Island as you race to complete your quest.\n\nIs Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate unique objects and solve puzzling situations!  When in doubt, don't be afraid to try EVERYTHING!!\n\n* 16 megs of memory provide 6 worlds - each with 8 stages!\n* Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling.\n* Huge characters and even bigger bosses require quick thinking!\n* Battery back-up to save your progress.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/pinxjfbbkuqwdbht1chhh/Super-Mario-World-2-Yoshi-s-Island-U-M3-V1.1.smc?rlkey=6ajyi3ttb9219v78qdf03ltpt&dl=1"
+          },
+          "added": 1694986980258
+        }
+      ]
+    },
+    {
+      "title": "XGBAX",
+      "longTitle": "XGBAX",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/gba-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gba-thumb.png",
+      "description": "XGBAX",
+      "items": [
+        {
+          "title": "Crash Bandicoot - The Huge Adventure",
+          "longTitle": "Crash Bandicoot - The Huge Adventure (USA)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20(USA).png",
+          "description": "Crash Bandicoot makes his first appearance on the Game Boy Advance, in this, his 5th adventure against arch nemesis, Dr. Neo Cortex. This time Cortex has shrunk the world down to a tiny size and it is up to Crash to explore the 20 levels full of dangerous creatures and terrain to collect crystals that will (hopefully) change the world back to its normal size.\n\nCrash explores 4 worlds, split into 5 levels. Levels range from side-scrolling action to underwater swimming and 3D chase sequences (similar to those in the original Playstation series) designed using the GBA's unique FX features to create a 3D illusion. You will also play flying shoot 'em up levels, a boss levels at the end of each world, and the usual extra bonus levels and secret items.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/gp3xj1o97d2qzymyti8em/Crash-Bandicoot-the-Huge-Adventure-GBA.GBA?rlkey=vkdh9jtdwldrlkma2hxfnv02v&dl=1"
+          },
+          "added": 1694985759753
+        },
+        {
+          "title": "Kingdom Hearts - Chain of Memories",
+          "longTitle": "Kingdom Hearts - Chain of Memories (USA)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20(USA).png",
+          "description": "Chain of Memories kicks off where the PS2 original left off, with our hero Sora and his companions Donald and Goofy stripped of their powers in a sudden introduction of a new mystery. Sora must go it alone within a dangerous castle to discover the secret behind the sudden loss of power, with Donald and Goofy lending a hand when needed through the use of attack cards.\n\nDuring a battle, Sora can choose his attacks and character aids through a card system, combos and special attacks can be performed as well with the right timing in card choice. As an enemy is defeated, further items and cards can be found to increase abilities.\n\nThis unique collaboration between SquareEnix and Disney returns the characters of the animated world into an epic RPG and continues the story exclusively on the GBA.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/xqixm2qwrjcwoumwndm6p/Kingdom-Hearts-Chain-of-Memories-U.gba?rlkey=p5h8wec3swzvh1brufmdflggc&dl=1"
+          },
+          "added": 1694985759753
+        },
+        {
+          "title": "Kirby - Nightmare in Dream Land",
+          "longTitle": "Kirby - Nightmare in Dream Land (USA)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Kirby%20-%20Nightmare%20in%20Dream%20Land%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Kirby%20-%20Nightmare%20in%20Dream%20Land%20(USA).png",
+          "description": "When King Dedede steals the Star Rod, it's up to Kirby to recover the fragmented pieces from Triple D's underlings and restore power to the Fountain of Dreams. Kirby: Nightmare in Dream Land is an action-packed side-scrolling adventure chock full of awesome copy abilities and fast-moving gameplay. Kirby may not look tough, but he can float over dangerous obstacles, eat enemy projectiles, and copy his enemies' abilities. You can use these skills in the single-player story mode or multiplayer mode with up to three friends using the Game Boy Advance Link cable.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/9upw3fylwcnbibiq49i1p/Kirby-Nightmare-in-Dreamland-U.gba?rlkey=yyhhd6jytyfm5s0ojvxlbd6xn&dl=1"
+          },
+          "added": 1694985759753
+        },
+        {
+          "title": "One Piece",
+          "longTitle": "One Piece (USA)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/One%20Piece%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/One%20Piece%20(USA).png",
+          "description": "You can try to grab the greatest treasure of them all, the \"one piece,\" in One Piece: Grand Battle. This pirate action game is based on the TV series One Piece, and it lets you play as Monkey D. Luffy and more than 16 other playable characters. There are six game modes for you to play with either one or two players. You can unlock new characters, costumes, and minigames and collect powerful items as you progress through the game and explore the interactive environments from the TV show.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/qfd01d05onoc0oa1cvlh9/Shonen-Jump-s-One-Piece-U.gba?rlkey=4arb272vjw9oixx2iv2os4ctj&dl=1"
+          },
+          "added": 1694985759754
+        },
+        {
+          "title": "Super Mario Advance 4 - Super Mario Bros. 3",
+          "longTitle": "Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Super%20Mario%20Advance%204%20-%20Super%20Mario%20Bros.%203%20(USA%2C%20Australia)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Super%20Mario%20Advance%204%20-%20Super%20Mario%20Bros.%203%20(USA%2C%20Australia)%20(Rev%201).png",
+          "description": "Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. \n\nThis time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.\nIt's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.\n\nOld and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/89jcu9civwfwiyuiwfyz6/Super-Mario-Advance-4-Super-Mario-Bros.-3-U-V1.1.gba?rlkey=dhwjoh6tr7pu94i4fisgbze2u&dl=1"
+          },
+          "added": 1694985759754
+        },
+        {
+          "title": "Teen Titans",
+          "longTitle": "Teen Titans (USA) (En,Fr)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Teen%20Titans%20(USA)%20(En%2CFr).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Teen%20Titans%20(USA)%20(En%2CFr).png",
+          "description": "Based on the hit show and DC Comics series, Teen Titans gives gamers the chance to be any of the Teen Titans heroes as they switch in realtime between heroes Robin, Starfire, Beast Boy, Cyborg and Raven to make use of the Teen Titans’ unique moves and abilities. The notorious villains Slade, Overload, Jinx, Gizmo, and Mammoth will all be out, prowling this crime-ridden city and causing mayhem for the teen superheroes.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/vff9vnj9t5goo4mwg7ta9/Teen-Titans-U.gba?rlkey=j6dxo6fspqaxdehrad648w7k7&dl=1"
+          },
+          "added": 1694985759754
+        }
+      ]
+    },
+    {
+      "title": "XSegaX",
+      "longTitle": "XSegaX",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis-thumb.png",
+      "description": "XSegaX",
+      "items": [
+        {
+          "title": "Aladdin",
+          "longTitle": "Aladdin (Europe)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Aladdin%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Aladdin%20(Europe).png",
+          "description": "The game involves killing enemies with basic swordplay and jumping across ledges. There are several levels, including one level where Aladdin must escape from the Cave of Wonders on Carpet and another where he must jump across the Agrabah's rooftops.\nThe player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives, and continues until the player runs out of Genie tokens or lands on Jafar. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/0vn94hwjh14ybank2azj1/Aladdin-Europe.md?rlkey=km5hpyhxf8pxtbtqjg4p1jadc&dl=1"
+          },
+          "added": 1694985657852
+        },
+        {
+          "title": "Castlevania - Bloodlines",
+          "longTitle": "Castlevania - Bloodlines (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Castlevania%20-%20Bloodlines%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Castlevania%20-%20Bloodlines%20(USA).png",
+          "description": "In the 19th century Europe's greatest nations had gone to great lengths to maintain a balance of power throughout Europe. The inhabitants sensed that a war would unfold sooner or later and countries formed several alliances, who in turned harbored feelings of distrust against each other. on June 1914 at Sarajevo, the Crown Prince of Austria was assasinated and resulted in a chain reaction of violence across the entire continent. It was said that a strange beautiful woman was involved within the shadows.\n\nIt was Elizabeth Bartley who had plotted together with the dark sorceress Drolta Tzuentes to unleash an international global war and use the souls of the dead to revive their Lord, Dracula.\n\nTwo man, descendants of the legendary Belmont family of vampire hunters, named John Morris and Eric Lecarde arose to counter the threat.\n\nTogether they travled to the ruins of Dracula's castle were unable to find any trace of the Vampire Lord. After learning that Elizabeth was nearby, they followed in hot pursuit while fighting their way all across Europe. With much effort, John and Eric were able to finally end the menace of Dracula and Elizabeth after a final showdown in Castle Proserpina.\n\nVictory would soon be tainted when learned of the terrible price that came with using the whip's full power.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/afq3fllna4sr7x8xf69xk/Castlevania-Bloodlines-USA.md?rlkey=g68nuha3r9qxffl1vs011tnoj&dl=1"
+          },
+          "added": 1694985657852
+        },
+        {
+          "title": "Contra - Hard Corps",
+          "longTitle": "Contra - Hard Corps (USA, Korea)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
+          "description": "Kickin' cyborg butt... That's what it's all about, dude. Jack into this game of genetic engineering gone bad. Real bad. It's five years after the mother of all wars ended - and things still aren't right. Your job is to fix it. The ever-popular Contra series makes its Sega Genesis debut with a pulse-pounding new storyline. At 16 megs, HARD CORPS pushes the technology to bring you over ten gut-wrenching levels with huge boss characters, great graphics and dynamic sound. Find high powered weapons such as the homing gun, crush gun, needle laser or mine setter. Do you think you can handle it? Trust me, you can't. You still here? Okay, then get ready for the fight of your life. Pick one of the four heroes and begin your search across many dark levels of doom. The ending changes, depending on the paths you choose - but every pass crosses boss characters that will blow you away. Literally!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/t7bhfsgqhx4v9dwu9sz80/Contra-Hard-Corps-USA-Korea.md?rlkey=cnazc6jqobj7iaylo1gzbza4e&dl=1"
+          },
+          "added": 1694985657852
+        },
+        {
+          "title": "Golden Axe III",
+          "longTitle": "Golden Axe III (Japan) (En)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Golden%20Axe%20III%20(Japan)%20(En).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Golden%20Axe%20III%20(Japan)%20(En).png",
+          "description": "Damud Hellbringer, the Prince of Darkness, has taken away the Golden Axe and put an evil curse over all the warriors. However, one of the heroes has their curse relieved and is sent to set things straight - lift the curse off the others, defeat the villain and return with the Golden Axe.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/hcfzzlhq644o35jvoow6c/Golden-Axe-III-Japan.md?rlkey=bqg6tcwhl0zdd2vkwmfb807cf&dl=1"
+          },
+          "added": 1694985657852
+        },
+        {
+          "title": "Lion King, The",
+          "longTitle": "Lion King, The (World)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Lion%20King%2C%20The%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Lion%20King%2C%20The%20(World).png",
+          "description": "The game is a side-scrolling platform game, with the controlled character having to leap, climb, run and descend from platform to platform. There is an exception during the level The Stampede, where Simba is running towards (or in the NES and Game Boy versions, running with the camera looking straight down on top of him) the camera dodging wildebeest and leaping over rocks.\nIn most versions of the game two bars appear on the HUD. To the left is the roar meter, which must be fully charged for Simba's roar to be effective. To the right is the health bar which decreases when Simba is hurt. At the bottom left of the screen is a counter showing how many lives Simba has remaining. Health can be restored by collecting bugs which come in a variety of shapes and sizes. Some rare health-damaging bugs also exist.\nThe player controls Simba (first as a cub, then later as an adult) in the main levels and either Timon or Pumbaa in the bonus levels.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/xhhwgi4qfsh6mv7paxnfa/Lion-King-The-World.md?rlkey=6ghwi6c6t1ax6ih7sxpul17f4&dl=1"
+          },
+          "added": 1694985657852
+        },
+        {
+          "title": "Mega Man - The Wily Wars",
+          "longTitle": "Mega Man - The Wily Wars (Europe)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Mega%20Man%20-%20The%20Wily%20Wars%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Mega%20Man%20-%20The%20Wily%20Wars%20(Europe).png",
+          "description": "The premise of the compilation involves the evil Dr. Wily traveling back in time in an attempt to defeat the robotic hero Mega Man. Each game follows a similar storyline in which Wily dispatches a set of powerful robots to take over the world and Mega Man single-handedly stops them.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/a4yfdchbtk11sngtsttg7/Mega-Man-The-Wily-Wars-Europe.md?rlkey=akumva2z31jpd2jiepjf89v80&dl=1"
+          },
+          "added": 1694985657852
+        },
+        {
+          "title": "Monster World IV",
+          "longTitle": "Monster World IV (USA, Europe) (En,Ja) (Virtual Console)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Monster%20World%20IV%20(USA%2C%20Europe)%20(En%2CJa)%20(Virtual%20Console).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Monster%20World%20IV%20(USA%2C%20Europe)%20(En%2CJa)%20(Virtual%20Console).png",
+          "description": "Monster World IV is a sequel to Wonder Boy 5: Monster World 3. The player controls Asha, the green-haired girlfriend of Shion, the hero of the previous game. One day, Asha was standing on a cliff near her home village, and suddenly heard a mysterious voice calling for help. She decided to leave the village and to embark on an adventure to discover the identity of this mysterious person.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/bo9kkzutba0yu6pm4sfjn/Monster-World-IV-USA-Europe-En-Ja-Virtual-Console.md?rlkey=725hreg5aqpi7okog5lqswcni&dl=1"
+          },
+          "added": 1694985657853
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/5rerzu6iggepmqrm5malj/Moonwalker-UE.bin?rlkey=ajc12e5w2mv3k8g8yxthnuu9o&dl=1"
+          },
+          "type": "genesis",
+          "title": "Moonwalker-UE",
+          "added": 1694985657853
+        },
+        {
+          "title": "MK5 - Mortal Kombat Mythologies - Sub-Zero",
+          "longTitle": "MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl)",
+          "type": "genesis",
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/8zsdvq815tkemda5uyqck/Mortal-Combat-5-Unl-c.bin?rlkey=cplzmuh7r4su7qjgdpohkoud1&dl=1"
+          },
+          "added": 1694985657853
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/oodwagnsqggqa4svna36e/QuackShot-Starring-Donald-Duck-QuackShot-I-Love-Donald-Duck-Guruzia-Ou-no-Hihou-World-v1.1.md?rlkey=qt9pprnje0d3wzquh7fak9ql7&dl=1"
+          },
+          "type": "genesis",
+          "title": "QuackShot-Starring-Donald-Duck-QuackShot-I-Love-Donald-Duck-Guruzia-Ou-no-Hihou-World-v1.1",
+          "added": 1694985657853
+        },
+        {
+          "title": "Scooby-Doo Mystery",
+          "longTitle": "Scooby-Doo Mystery (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Scooby-Doo%20Mystery%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Scooby-Doo%20Mystery%20(USA).png",
+          "description": "Scooby-Doo Mystery is a point-and-click (or point-and-press button rather) adventure featuring two playable episodes of a typical scooby-doo cartoon.\n\nBlake's Hotel - Daphne's Uncle Blake has invited the gang over to his hotel for a ski weekend. Upon reaching the hotel they learn that the ghost of the Ancient Chieftan is scaring all the customers away, as he isnt happy about a hotel being built on his burial grounds. Soon Uncle Blake is kidnapped, and its up to Scooby and Shaggy to find clues and hunt this ghost down.\n\nHa Ha Carnival - The gang arrives at an almost-deserted carvinal, looking for some fun. Soon enough Fred, Daphne and Velma get trapped in a pond when they go out in one of the rides. Not only that, someone has broken the rollercoaster tracks. Then an evil looking phantom clown has Scooby and Shaggy being chased all around the carnival. Another mystery for the pair to solve.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/ht4s7vz1a0g7683fuy6i1/Scooby-Doo-Mystery-USA.md?rlkey=g73fq1mjwu9t1rqfhde1j5yle&dl=1"
+          },
+          "added": 1694985657853
+        },
+        {
+          "title": "Shinobi III - Return of the Ninja Master",
+          "longTitle": "Shinobi III - Return of the Ninja Master (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20(USA).png",
+          "description": "Shinobi III involves a ninja named Joe \"Shinobi\" Musashi (you) going and kicking some bad guy butt, in this case his old enemy \"Neo Zeed\".\n\nIn normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/3olhps7tnxbllq72821a3/Shinobi-III-Return-of-the-Ninja-Master-USA.md?rlkey=tw0r7dcb1hh1qxjncw7zgjxp8&dl=1"
+          },
+          "added": 1694985657853
+        },
+        {
+          "title": "Sonic The Hedgehog",
+          "longTitle": "Sonic The Hedgehog (USA, Europe)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Sonic%20The%20Hedgehog%20(USA%2C%20Europe).png",
+          "description": "When Dr. Eggman was hatching his plans for a global takeover, there was one little thing he didn't count on - Sonic The Hedgehog! Our blue hero zips, flips, and spins through the levels at lightning speed to collect the Chaos Emerald and restore World Order.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/8sfsq431yyh3k8pi7gn82/Sonic-The-Hedgehog-USA-Europe.md?rlkey=xn2rdyjqpy9z5d1knh9art1oh&dl=1"
+          },
+          "added": 1694985657854
+        },
+        {
+          "title": "Streets of Rage 2",
+          "longTitle": "Streets of Rage 2 (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Streets%20of%20Rage%202%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Streets%20of%20Rage%202%20(USA).png",
+          "description": "A year has passed since the events of Streets of Rage. To celebrate the defeat of the mysterious \"Mr. X\" and his syndicate the previous year, Adam Hunter, Axel Stone, and Blaze Fielding met at their favorite nightspot in the city and spent their time reminiscing about their vigilante crusade against \"Mr. X\" and his organization. Axel and Blaze had moved out of the city after the adventure from last year. Axel has begun working as a part-time bodyguard and Blaze teaches dance classes. Adam has since rejoined the police force and lives in a small house with his younger brother.\nThe next morning, Axel received a phone call from Eddie 'Skate' Hunter, Adam's younger brother. Skate had arrived at home from school and was shocked to find his house in ruin and his older brother missing. Attached to the front door was a picture of Adam chained to a wall at the feet of Mr. X. The criminals began to retake the streets once more. Beatings and lootings took place regularly and in broad daylight. Chaos reigned in the city, far worse than before.\nRealizing that \"Mr. X\" and his syndicate has returned for revenge against him, Blaze, and Adam, Axel wastes no time in telling Blaze about the unexpected situation and Blaze herself is determined to help Axel out in defeating \"Mr. X\" and rescuing Adam. Accompanied by Adam's young brother Skate and Axel's friend, a professional wrestler named Max Thunder, Axel and Blaze set forth on a rescue mission, which will take them from the city all the way to \"Mr. X\"'s hideout on a desolate island.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/wa9uyng31n64n40wtk1f7/Streets-of-Rage-2-USA.md?rlkey=mxnta08vlj4itp2uk3zaujswc&dl=1"
+          },
+          "added": 1694985657854
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles - The Hyperstone Heist",
+          "longTitle": "Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Teenage%20Mutant%20Ninja%20Turtles%20-%20The%20Hyperstone%20Heist%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Teenage%20Mutant%20Ninja%20Turtles%20-%20The%20Hyperstone%20Heist%20(USA).png",
+          "description": "Shredder steals the powerful Hyperstone to shrink New York City and it's up to you to teach that treacherous troublemaker not to mess with the fearless foursome! Pick your favorite Cowabunga commando to slash through 5 lawless levels of lambasting. Four levels each have 3 intense stages and the other is packed with brand new challenges that will make you hurl your pizza lunch. Pulverize shrink-happy Shredder before he pockets our whole planet!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/8e65bjwy6n0j11sk6optj/Teenage-Mutant-Ninja-Turtles-The-Hyperstone-Heist-USA.md?rlkey=q3dctabfsyhupc7zsqmg9h5p6&dl=1"
+          },
+          "added": 1694985657854
+        },
+        {
+          "title": "Tiny Toon Adventures - Buster's Hidden Treasure",
+          "longTitle": "Tiny Toon Adventures - Buster's Hidden Treasure (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Tiny%20Toon%20Adventures%20-%20Buster's%20Hidden%20Treasure%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Tiny%20Toon%20Adventures%20-%20Buster's%20Hidden%20Treasure%20(USA).png",
+          "description": "Buster Bunny's mission in this game is to trace down and defeat Montana Max, who has stolen and hidden some treasure as well as rescue Babs Bunny. Buster must go through several levels, including a volcano, an undersea adventure, a pirate ship, and a forest, among many other levels. However, many of his foes are out to stop him, including Roderick Rat and Gene Splicer, who has brainwashed several of Buster's friends, including Plucky Duck, Dizzy Devil and Hamton J Pig. Upon defeating Gene, the helmet used to control Buster's friends will fall off and explode, leaving them slightly confused about what has happened to them, or simply to fall down in a comical fashion, as in the case of Calamity Coyote.\n\nTo complete each level, Buster must find Gogo Dodo, who will allow him to jump through a portal. Additionally, Buster can find portals reminiscent of the show's rainbow-coloured logo, that will take Buster into Wackyland. Here, Buster must attempt to collect as many items as he can before touching one of the numerous Dodos that populate the level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/r96uuaq3sn10gi58zf66o/Tiny-Toon-Adventures-Buster-s-Hidden-Treasure-USA.md?rlkey=4elw65bke6rki7lr5jirke24x&dl=1"
+          },
+          "added": 1694985657854
+        },
+        {
+          "title": "World of Illusion Starring Mickey Mouse and Donald Duck",
+          "longTitle": "World of Illusion Starring Mickey Mouse and Donald Duck (Europe)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20(Europe).png",
+          "description": "Mickey Mouse and Donald Duck are sucked into a magical world, while preparing for a magic act. Now they must survive over a dozen different side-scrolling levels, in order to return home.\n\nMickey and Donald can run, jump, or attack by flourishing their capes. Enemies defeated in this way turn into doves, cards, or other harmless objects depending on the enemy. After defeating the boss of each level, a new magic spell is learned, allowing the pair to traverse the next level; i.e. flying on a magic carpet or going underwater in an air bubble. This was one of the few Genesis games to feature voice samples.\nThe gameplay changes depending on if the player selects Mickey or Donald, in a one player mode, or if two people want to control both characters at once. For instance, Mickey can squeeze through certain gaps, while Donald must find a different route; if both are playing, Mickey can pull Donald through the gap. Either can stand on the others' shoulders to ascend higher, and lower a rope to pull the other up.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/210pzxyhbj2uotgax4uxi/World-of-Illusion-Starring-Mickey-Mouse-and-Donald-Duck-Europe.md?rlkey=df4xn4bplzz8l8w8n0e121euo&dl=1"
+          },
+          "added": 1694985657854
+        }
+      ]
+    }
+  ],
+  "props": {}
+}
