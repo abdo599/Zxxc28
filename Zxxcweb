@@ -1,16 +1,83 @@
 {
-  "title": "My games",
-  "longTitle": "Games",
-  "description": "The default feed",
-  "thumbnail": "https://www.dropbox.com/scl/fi/9y1juvw5pzhm3x7hcvld7/output-onlinepngtools.png?rlkey=1s4pmnf5p8n3wb92ye47o5ufd&dl=0",
-  "background": "https://i.imgur.com/O43ZrLe.jpeg",
+  "title": "Retro games",
+  "longTitle": "Retro",
+  "description": "Games",
+  "thumbnail": "https://www.dropbox.com/scl/fi/ljjmjzxrqyn2dgyr4v591/output-onlinepngtools-3.png?rlkey=86nwmffdrzze8mdh9a9abs1ri&dl=0",
+  "background": "https://www.dropbox.com/scl/fi/hd0qm27cxvk130s7b5q54/output-onlinepngtools-2.png?rlkey=gtwau29f6eho2f42kah37cukr&dl=0",
   "categories": [
     {
-      "title": "XSNESX",
-      "longTitle": "XSNESX",
+      "title": "Nintendo NES",
+      "longTitle": "Nintendo Entertainment System Games",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/nes-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/nes-thumb.png",
+      "description": "The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. Nintendo first released it in Japan as the Family Computer, commonly known as the Famicom, in 1983. The NES, a remodelled version, was released internationally in the following years.",
+      "items": [
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/mgeq04iz06w8158fslxlm/64-in-1-J-p1.nes?rlkey=f1g2topsh4ix923oqkbjxtced&dl=1"
+          },
+          "type": "nes",
+          "title": "64-in-1 (J) [p1]",
+          "added": 1695061259396
+        },
+        {
+          "title": "DuckTales",
+          "longTitle": "DuckTales (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/DuckTales%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/DuckTales%20(USA).png",
+          "description": "The player controls Scrooge McDuck throughout the entire game, searching for treasures to become the world's richest duck. Scrooge can jump using the A button; his cane is used as a weapon to defeat enemies or strike objects and as a pogo stick to jump higher. There is a wide variety of helpful non-player characters and enemy characters.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/m0b2xr35j7q9lbn1m6ps6/DuckTales-USA.nes?rlkey=o49gnawsfi23gja55i6en31wh&dl=1"
+          },
+          "added": 1695061259396
+        },
+        {
+          "title": "Kirby's Adventure",
+          "longTitle": "Kirby's Adventure (USA) (Rev 1)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Kirby's%20Adventure%20(USA)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Kirby's%20Adventure%20(USA)%20(Rev%201).png",
+          "description": "Kirby's Adventure is a platformer. The game consists of seven worlds, each containing a set of regular levels, a boss fight, and a Warp Star door (which enables Kirby to travel from world to world). Most worlds also contain mini-games (which allow Kirby to gain extra lives), museums (which allow Kirby to gain certain powers), and/or Arenas (where Kirby must battle with a mini-boss to win health items and allow him to copy the boss' special ability afterwards). The game was the first in the series to include a save feature. It automatically saves the player's progress after each level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/y55gwrbzpfo6fi2gi1isu/Kirby-s-Adventure-USA-Rev-1.nes?rlkey=nkup0wcnf7liw9qgpdxgrt70v&dl=1"
+          },
+          "added": 1695061259397
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/4im2bxpy7yu1kke9mskaj/Super-Mario-Bros-3-PC10.nes?rlkey=0e6wwxs5k8k8dhjcqqwha0uy5&dl=1"
+          },
+          "type": "nes",
+          "title": "Super Mario Bros 3 (PC10)",
+          "added": 1695061259397
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/n0lzyfpiu871jvectm4o1/Super-Mario-World.nes?rlkey=tno8mmgx8akifbgkenq64sxp5&dl=1"
+          },
+          "type": "nes",
+          "title": "Super Mario World",
+          "added": 1695061259398
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/k9ch9272p4ia9fk8j76x6/VS-Super-Mario-Bros-VS.nes?rlkey=dtxg783s088pqv720w40nmmh2&dl=1"
+          },
+          "type": "nes",
+          "title": "VS Super Mario Bros (VS)",
+          "added": 1695061259398
+        }
+      ]
+    },
+    {
+      "title": "Nintendo SNES",
+      "longTitle": "Super Nintendo Games",
       "background": "https://webrcade.github.io/webrcade-default-feed/images/snes-background.png",
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/snes-thumb.png",
-      "description": "XSNESX",
+      "description": "The SNES is Nintendo's second programmable home console, following the Nintendo Entertainment System (NES). The console introduced advanced graphics and sound capabilities compared with other systems at the time. The system was designed to accommodate the ongoing development of a variety of enhancement chips integrated into game cartridges to be competitive into the next generation.",
       "items": [
         {
           "title": "Donkey Kong Country",
@@ -21,9 +88,57 @@
           "description": "Donkey Kong Country is a Jump & Run released in 1994 for the SNES. Challenged by the crazed tribe of reptilian Kremlings & King K. Rool, Donkey & Diddy Kong face their cunning adversaries armed with lightning-quick moves, chest-pounding muscle, and awesome aerial acrobatics. The duo also gets help from a host of friends and family - from Funky Kong, Cranky Kong and Candy Kong, to Rambi the rhino, Expresso the ostrich, Enguarde the swordfish, Squawks the parrot and Winky the frog. Explore over 30 levels plus dozens of hidden caves or secret rooms and discover every corner of the maps to help the Kongs recovering their stolen banana hoard!",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/4x0e9fgzfuz14uttu9lic/Donkey-Kong-Country-U-V1.2.smc?rlkey=bfj05eywv33s5tzjnmvl7pmnr&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/4x0e9fgzfuz14uttu9lic/Donkey-Kong-Country.smc?rlkey=bfj05eywv33s5tzjnmvl7pmnr&dl=1"
           },
-          "added": 1694986980258
+          "added": 1695061676672
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/0bhp419db84ww52etaecf/Goof-Troop.smc?rlkey=2dot1axwz22zh43x8gy0yuy2l&dl=1"
+          },
+          "type": "snes",
+          "title": "Goof Troop",
+          "added": 1695061676672
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/9g3h67tw5i6xk6h2vdzzo/Magical-Quest-Starring-Mickey.smc?rlkey=oz1vnf9qbw0kqesretjujcseb&dl=1"
+          },
+          "type": "snes",
+          "title": "Magical Quest Starring Mickey",
+          "added": 1695061676673
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/hxawgsuvvb9ydl7taf3pa/Mega-Man-X.smc?rlkey=os4j9s03cmzqjbnr2krlyr6zo&dl=1"
+          },
+          "type": "snes",
+          "title": "Mega Man X",
+          "added": 1695061676673
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/ouvfh2kexm238zgdxvo6t/Mortal-Kombat.smc?rlkey=ps1e8rchtaztl7664nw85nzka&dl=1"
+          },
+          "type": "snes",
+          "title": "Mortal Kombat",
+          "added": 1695061676673
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/bo96sy8f23i44zaov1tw0/Street-Fighter-II.smc?rlkey=lrst6fzazaztreqhgibxvrqka&dl=1"
+          },
+          "type": "snes",
+          "title": "Street Fighter II",
+          "added": 1695061676673
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/91m8wlnfu55riwsi1y9sw/Super-Mario-Kart.smc?rlkey=zk6y3r4b0zctq46m6rykoojnh&dl=1"
+          },
+          "type": "snes",
+          "title": "Super Mario Kart",
+          "added": 1695061676673
         },
         {
           "title": "Super Mario World 2 - Yoshi's Island",
@@ -34,19 +149,37 @@
           "description": "The Evil Magikoopa, Kamek, is out to kidnap Baby Mario!  In this sequel to Super Mario World, you play as Yoshi.  Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek's clever traps and evil minions.  Enjoy the various backgrounds of the rich and vibrant locales of Yoshi's Island as you race to complete your quest.\n\nIs Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate unique objects and solve puzzling situations!  When in doubt, don't be afraid to try EVERYTHING!!\n\n* 16 megs of memory provide 6 worlds - each with 8 stages!\n* Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling.\n* Huge characters and even bigger bosses require quick thinking!\n* Battery back-up to save your progress.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/pinxjfbbkuqwdbht1chhh/Super-Mario-World-2-Yoshi-s-Island-U-M3-V1.1.smc?rlkey=6ajyi3ttb9219v78qdf03ltpt&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/pinxjfbbkuqwdbht1chhh/Super-Mario-World-2-Yoshi-s-Island.smc?rlkey=6ajyi3ttb9219v78qdf03ltpt&dl=1"
           },
-          "added": 1694986980258
+          "added": 1695061676673
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/2gar84733xz3cptlrszeu/Super-Mario-World.smc?rlkey=8eqgqrgwlumxvb5mbq31rqtit&dl=1"
+          },
+          "type": "snes",
+          "title": "Super Mario World",
+          "added": 1695061676673
         }
       ]
     },
     {
-      "title": "XGBAX",
-      "longTitle": "XGBAX",
+      "title": "Nintendo GBA",
+      "longTitle": "Nintendo Game Boy Advance Games",
       "background": "https://webrcade.github.io/webrcade-default-feed/images/gba-background.png",
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gba-thumb.png",
-      "description": "XGBAX",
+      "description": "The Game Boy Advance (GBA) is a 32-bit handheld game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. Contrary to the previous Game Boy models, which have the \"portrait\" form factor of the original Game Boy, the Game Boy Advance was designed in a \"landscape\" form factor, putting the buttons to the sides of the device instead of below the screen.",
       "items": [
+        {
+          "title": "Sushi the Cat",
+          "description": "Sushi the Cat is a neat but short platformer for the GBA. Collect stars and avoid being touched by enemies.",
+          "type": "gba",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gba/sushi-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gba/sushi-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gba/sushi.gba"
+          }
+        },
         {
           "title": "Crash Bandicoot - The Huge Adventure",
           "longTitle": "Crash Bandicoot - The Huge Adventure (USA)",
@@ -58,7 +191,7 @@
           "props": {
             "rom": "https://www.dropbox.com/scl/fi/gp3xj1o97d2qzymyti8em/Crash-Bandicoot-the-Huge-Adventure-GBA.GBA?rlkey=vkdh9jtdwldrlkma2hxfnv02v&dl=1"
           },
-          "added": 1694985759753
+          "added": 1695061366394
         },
         {
           "title": "Kingdom Hearts - Chain of Memories",
@@ -71,7 +204,7 @@
           "props": {
             "rom": "https://www.dropbox.com/scl/fi/xqixm2qwrjcwoumwndm6p/Kingdom-Hearts-Chain-of-Memories-U.gba?rlkey=p5h8wec3swzvh1brufmdflggc&dl=1"
           },
-          "added": 1694985759753
+          "added": 1695061366395
         },
         {
           "title": "Kirby - Nightmare in Dream Land",
@@ -84,7 +217,7 @@
           "props": {
             "rom": "https://www.dropbox.com/scl/fi/9upw3fylwcnbibiq49i1p/Kirby-Nightmare-in-Dreamland-U.gba?rlkey=yyhhd6jytyfm5s0ojvxlbd6xn&dl=1"
           },
-          "added": 1694985759753
+          "added": 1695061366395
         },
         {
           "title": "One Piece",
@@ -97,7 +230,7 @@
           "props": {
             "rom": "https://www.dropbox.com/scl/fi/qfd01d05onoc0oa1cvlh9/Shonen-Jump-s-One-Piece-U.gba?rlkey=4arb272vjw9oixx2iv2os4ctj&dl=1"
           },
-          "added": 1694985759754
+          "added": 1695061366395
         },
         {
           "title": "Super Mario Advance 4 - Super Mario Bros. 3",
@@ -110,7 +243,7 @@
           "props": {
             "rom": "https://www.dropbox.com/scl/fi/89jcu9civwfwiyuiwfyz6/Super-Mario-Advance-4-Super-Mario-Bros.-3-U-V1.1.gba?rlkey=dhwjoh6tr7pu94i4fisgbze2u&dl=1"
           },
-          "added": 1694985759754
+          "added": 1695061366395
         },
         {
           "title": "Teen Titans",
@@ -123,16 +256,16 @@
           "props": {
             "rom": "https://www.dropbox.com/scl/fi/vff9vnj9t5goo4mwg7ta9/Teen-Titans-U.gba?rlkey=j6dxo6fspqaxdehrad648w7k7&dl=1"
           },
-          "added": 1694985759754
+          "added": 1695061366395
         }
       ]
     },
     {
-      "title": "XSegaX",
-      "longTitle": "XSegaX",
+      "title": "Sega Genesis",
+      "longTitle": "Sega Genesis Games",
       "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis-background.png",
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis-thumb.png",
-      "description": "XSegaX",
+      "description": "The Sega Genesis, known as the Mega Drive outside North America, is a 16-bit fourth-generation home video game console developed and sold by Sega. Designed by an R&D team supervised by Hideki Sato and Masami Ishikawa, the Genesis was adapted from Sega's System 16 arcade board, centered on a Motorola 68000 processor as the CPU, a Zilog Z80 as a sound controller, and a video system supporting hardware sprites, tiles, and scrolling.",
       "items": [
         {
           "title": "Aladdin",
@@ -143,9 +276,22 @@
           "description": "The game involves killing enemies with basic swordplay and jumping across ledges. There are several levels, including one level where Aladdin must escape from the Cave of Wonders on Carpet and another where he must jump across the Agrabah's rooftops.\nThe player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives, and continues until the player runs out of Genie tokens or lands on Jafar. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/0vn94hwjh14ybank2azj1/Aladdin-Europe.md?rlkey=km5hpyhxf8pxtbtqjg4p1jadc&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/cr5du3fd9o1pubt85ygp9/Aladdin-Europe.md?rlkey=36f6zofw1y3yc2uxjie4nimxl&dl=1"
           },
-          "added": 1694985657852
+          "added": 1695061467661
+        },
+        {
+          "title": "Animaniacs",
+          "longTitle": "Animaniacs (Europe) (En,Fr,De)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Animaniacs%20(Europe)%20(En%2CFr%2CDe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Animaniacs%20(Europe)%20(En%2CFr%2CDe).png",
+          "description": "Animaniacs is a video game that is based on the hit animated series of the same name. Unlike regular platform games, the player usually runs from the enemies rather than fighting them. Characters include Yakko, Wakko, and Dot, Pinky and the Brain, most of the supporting cast, as well as Ralph, the Warner Brothers studio guard. Animaniacs was made into two games which bore no relation to each other in terms of gameplay, despite both being made by Konami. One was for the Super Nintendo Entertainment System and the other was for the Sega Mega Drive/Genesis and Game Boy. The SNES and Mega Drive/Genesis version were released in 1994, and the Game Boy version in 1995.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/qgu7qxl4xvz05wjn2jzy7/Animaniacs-Europe-En-Fr-De.md?rlkey=fuzpqeb9eck8hr56lor8jum30&dl=1"
+          },
+          "added": 1695061467661
         },
         {
           "title": "Castlevania - Bloodlines",
@@ -156,9 +302,9 @@
           "description": "In the 19th century Europe's greatest nations had gone to great lengths to maintain a balance of power throughout Europe. The inhabitants sensed that a war would unfold sooner or later and countries formed several alliances, who in turned harbored feelings of distrust against each other. on June 1914 at Sarajevo, the Crown Prince of Austria was assasinated and resulted in a chain reaction of violence across the entire continent. It was said that a strange beautiful woman was involved within the shadows.\n\nIt was Elizabeth Bartley who had plotted together with the dark sorceress Drolta Tzuentes to unleash an international global war and use the souls of the dead to revive their Lord, Dracula.\n\nTwo man, descendants of the legendary Belmont family of vampire hunters, named John Morris and Eric Lecarde arose to counter the threat.\n\nTogether they travled to the ruins of Dracula's castle were unable to find any trace of the Vampire Lord. After learning that Elizabeth was nearby, they followed in hot pursuit while fighting their way all across Europe. With much effort, John and Eric were able to finally end the menace of Dracula and Elizabeth after a final showdown in Castle Proserpina.\n\nVictory would soon be tainted when learned of the terrible price that came with using the whip's full power.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/afq3fllna4sr7x8xf69xk/Castlevania-Bloodlines-USA.md?rlkey=g68nuha3r9qxffl1vs011tnoj&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/xgpn6am304p9dsd2rxgch/Castlevania-Bloodlines-USA.md?rlkey=e47x9uvg6mvcoaippcgg6msde&dl=1"
           },
-          "added": 1694985657852
+          "added": 1695061467662
         },
         {
           "title": "Contra - Hard Corps",
@@ -169,9 +315,9 @@
           "description": "Kickin' cyborg butt... That's what it's all about, dude. Jack into this game of genetic engineering gone bad. Real bad. It's five years after the mother of all wars ended - and things still aren't right. Your job is to fix it. The ever-popular Contra series makes its Sega Genesis debut with a pulse-pounding new storyline. At 16 megs, HARD CORPS pushes the technology to bring you over ten gut-wrenching levels with huge boss characters, great graphics and dynamic sound. Find high powered weapons such as the homing gun, crush gun, needle laser or mine setter. Do you think you can handle it? Trust me, you can't. You still here? Okay, then get ready for the fight of your life. Pick one of the four heroes and begin your search across many dark levels of doom. The ending changes, depending on the paths you choose - but every pass crosses boss characters that will blow you away. Literally!",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/t7bhfsgqhx4v9dwu9sz80/Contra-Hard-Corps-USA-Korea.md?rlkey=cnazc6jqobj7iaylo1gzbza4e&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/h0yy4uxlxlftarvmz9sy6/Contra-Hard-Corps-USA-Korea.md?rlkey=1z796nph4wwd84ee3cay24284&dl=1"
           },
-          "added": 1694985657852
+          "added": 1695061467662
         },
         {
           "title": "Golden Axe III",
@@ -182,9 +328,22 @@
           "description": "Damud Hellbringer, the Prince of Darkness, has taken away the Golden Axe and put an evil curse over all the warriors. However, one of the heroes has their curse relieved and is sent to set things straight - lift the curse off the others, defeat the villain and return with the Golden Axe.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/hcfzzlhq644o35jvoow6c/Golden-Axe-III-Japan.md?rlkey=bqg6tcwhl0zdd2vkwmfb807cf&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/duswyuimv3k25ugyycqrr/Golden-Axe-III-Japan.md?rlkey=d3dczb57abmtqkrr44bniwqsh&dl=1"
           },
-          "added": 1694985657852
+          "added": 1695061467662
+        },
+        {
+          "title": "International Superstar Soccer Deluxe",
+          "longTitle": "International Superstar Soccer Deluxe (Europe, Brazil)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/International%20Superstar%20Soccer%20Deluxe%20(Europe%2C%20Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/International%20Superstar%20Soccer%20Deluxe%20(Europe%2C%20Brazil).png",
+          "description": "International Superstar Soccer Deluxe is a football game for the Sega Mega Drive.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/7nzmg5wm5jkiuz6gbyuwe/International-Superstar-Soccer-Deluxe-Europe.md?rlkey=nevxpj8pi384j0frf1lr3583m&dl=1"
+          },
+          "added": 1695061467663
         },
         {
           "title": "Lion King, The",
@@ -195,9 +354,9 @@
           "description": "The game is a side-scrolling platform game, with the controlled character having to leap, climb, run and descend from platform to platform. There is an exception during the level The Stampede, where Simba is running towards (or in the NES and Game Boy versions, running with the camera looking straight down on top of him) the camera dodging wildebeest and leaping over rocks.\nIn most versions of the game two bars appear on the HUD. To the left is the roar meter, which must be fully charged for Simba's roar to be effective. To the right is the health bar which decreases when Simba is hurt. At the bottom left of the screen is a counter showing how many lives Simba has remaining. Health can be restored by collecting bugs which come in a variety of shapes and sizes. Some rare health-damaging bugs also exist.\nThe player controls Simba (first as a cub, then later as an adult) in the main levels and either Timon or Pumbaa in the bonus levels.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/xhhwgi4qfsh6mv7paxnfa/Lion-King-The-World.md?rlkey=6ghwi6c6t1ax6ih7sxpul17f4&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/7v8b9kg9itx3t27o86pwy/Lion-King-The-World.md?rlkey=g5rbn9mjsuunv856jockar3x0&dl=1"
           },
-          "added": 1694985657852
+          "added": 1695061467663
         },
         {
           "title": "Mega Man - The Wily Wars",
@@ -208,9 +367,9 @@
           "description": "The premise of the compilation involves the evil Dr. Wily traveling back in time in an attempt to defeat the robotic hero Mega Man. Each game follows a similar storyline in which Wily dispatches a set of powerful robots to take over the world and Mega Man single-handedly stops them.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/a4yfdchbtk11sngtsttg7/Mega-Man-The-Wily-Wars-Europe.md?rlkey=akumva2z31jpd2jiepjf89v80&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/k3acagz62ap65zey6a4k9/Mega-Man-The-Wily-Wars-Europe.md?rlkey=sm6xlvk4r85bo8csjtib4vnun&dl=1"
           },
-          "added": 1694985657852
+          "added": 1695061467663
         },
         {
           "title": "Monster World IV",
@@ -221,34 +380,34 @@
           "description": "Monster World IV is a sequel to Wonder Boy 5: Monster World 3. The player controls Asha, the green-haired girlfriend of Shion, the hero of the previous game. One day, Asha was standing on a cliff near her home village, and suddenly heard a mysterious voice calling for help. She decided to leave the village and to embark on an adventure to discover the identity of this mysterious person.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/bo9kkzutba0yu6pm4sfjn/Monster-World-IV-USA-Europe-En-Ja-Virtual-Console.md?rlkey=725hreg5aqpi7okog5lqswcni&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/386xrp0swuh53310ighvs/Monster-World-IV-USA-Europe-En-Ja-Virtual-Console.md?rlkey=czp96a0hugjbiuj68n4hz9zgw&dl=1"
           },
-          "added": 1694985657853
+          "added": 1695061467664
         },
         {
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/5rerzu6iggepmqrm5malj/Moonwalker-UE.bin?rlkey=ajc12e5w2mv3k8g8yxthnuu9o&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/t9me30nzdf70a9llwcwbb/Moonwalker-UE.bin?rlkey=atgxoy58mhqkqxqcow1lib1x5&dl=1"
           },
           "type": "genesis",
-          "title": "Moonwalker-UE",
-          "added": 1694985657853
+          "title": "Moonwalker (UE)",
+          "added": 1695061467664
         },
         {
           "title": "MK5 - Mortal Kombat Mythologies - Sub-Zero",
           "longTitle": "MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl)",
           "type": "genesis",
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/8zsdvq815tkemda5uyqck/Mortal-Combat-5-Unl-c.bin?rlkey=cplzmuh7r4su7qjgdpohkoud1&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/59ocyr1ueautyvwe9m6rn/Mortal-Combat-5-Unl-c.bin?rlkey=gzdqne2rw9xzyy0p3syk5e5fk&dl=1"
           },
-          "added": 1694985657853
+          "added": 1695061467664
         },
         {
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/oodwagnsqggqa4svna36e/QuackShot-Starring-Donald-Duck-QuackShot-I-Love-Donald-Duck-Guruzia-Ou-no-Hihou-World-v1.1.md?rlkey=qt9pprnje0d3wzquh7fak9ql7&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/kcte7ot18rlbeeq6rl0i0/QuackShot-Starring-Donald-Duck-QuackShot-I-Love-Donald-Duck-Guruzia-Ou-no-Hihou-World-v1.1.md?rlkey=y2gu1p62zs9shqlmnq4glw6th&dl=1"
           },
           "type": "genesis",
-          "title": "QuackShot-Starring-Donald-Duck-QuackShot-I-Love-Donald-Duck-Guruzia-Ou-no-Hihou-World-v1.1",
-          "added": 1694985657853
+          "title": "QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (v1.1)",
+          "added": 1695061467664
         },
         {
           "title": "Scooby-Doo Mystery",
@@ -259,9 +418,9 @@
           "description": "Scooby-Doo Mystery is a point-and-click (or point-and-press button rather) adventure featuring two playable episodes of a typical scooby-doo cartoon.\n\nBlake's Hotel - Daphne's Uncle Blake has invited the gang over to his hotel for a ski weekend. Upon reaching the hotel they learn that the ghost of the Ancient Chieftan is scaring all the customers away, as he isnt happy about a hotel being built on his burial grounds. Soon Uncle Blake is kidnapped, and its up to Scooby and Shaggy to find clues and hunt this ghost down.\n\nHa Ha Carnival - The gang arrives at an almost-deserted carvinal, looking for some fun. Soon enough Fred, Daphne and Velma get trapped in a pond when they go out in one of the rides. Not only that, someone has broken the rollercoaster tracks. Then an evil looking phantom clown has Scooby and Shaggy being chased all around the carnival. Another mystery for the pair to solve.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/ht4s7vz1a0g7683fuy6i1/Scooby-Doo-Mystery-USA.md?rlkey=g73fq1mjwu9t1rqfhde1j5yle&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/rhd6ae20zb4tgzx3s6j1k/Scooby-Doo-Mystery-USA.md?rlkey=1wtxovfbr3vyh05qb05pr2zt9&dl=1"
           },
-          "added": 1694985657853
+          "added": 1695061467665
         },
         {
           "title": "Shinobi III - Return of the Ninja Master",
@@ -272,9 +431,9 @@
           "description": "Shinobi III involves a ninja named Joe \"Shinobi\" Musashi (you) going and kicking some bad guy butt, in this case his old enemy \"Neo Zeed\".\n\nIn normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/3olhps7tnxbllq72821a3/Shinobi-III-Return-of-the-Ninja-Master-USA.md?rlkey=tw0r7dcb1hh1qxjncw7zgjxp8&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/mui78qwmifkswakhogzd2/Shinobi-III-Return-of-the-Ninja-Master-USA.md?rlkey=ueguqa6al869f53ev7ahbgtbp&dl=1"
           },
-          "added": 1694985657853
+          "added": 1695061467665
         },
         {
           "title": "Sonic The Hedgehog",
@@ -285,9 +444,9 @@
           "description": "When Dr. Eggman was hatching his plans for a global takeover, there was one little thing he didn't count on - Sonic The Hedgehog! Our blue hero zips, flips, and spins through the levels at lightning speed to collect the Chaos Emerald and restore World Order.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/8sfsq431yyh3k8pi7gn82/Sonic-The-Hedgehog-USA-Europe.md?rlkey=xn2rdyjqpy9z5d1knh9art1oh&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/mvib274lx6klcqichswgo/Sonic-The-Hedgehog-USA-Europe.md?rlkey=srvoqq870kuxwdpykckryz52q&dl=1"
           },
-          "added": 1694985657854
+          "added": 1695061467665
         },
         {
           "title": "Streets of Rage 2",
@@ -298,9 +457,9 @@
           "description": "A year has passed since the events of Streets of Rage. To celebrate the defeat of the mysterious \"Mr. X\" and his syndicate the previous year, Adam Hunter, Axel Stone, and Blaze Fielding met at their favorite nightspot in the city and spent their time reminiscing about their vigilante crusade against \"Mr. X\" and his organization. Axel and Blaze had moved out of the city after the adventure from last year. Axel has begun working as a part-time bodyguard and Blaze teaches dance classes. Adam has since rejoined the police force and lives in a small house with his younger brother.\nThe next morning, Axel received a phone call from Eddie 'Skate' Hunter, Adam's younger brother. Skate had arrived at home from school and was shocked to find his house in ruin and his older brother missing. Attached to the front door was a picture of Adam chained to a wall at the feet of Mr. X. The criminals began to retake the streets once more. Beatings and lootings took place regularly and in broad daylight. Chaos reigned in the city, far worse than before.\nRealizing that \"Mr. X\" and his syndicate has returned for revenge against him, Blaze, and Adam, Axel wastes no time in telling Blaze about the unexpected situation and Blaze herself is determined to help Axel out in defeating \"Mr. X\" and rescuing Adam. Accompanied by Adam's young brother Skate and Axel's friend, a professional wrestler named Max Thunder, Axel and Blaze set forth on a rescue mission, which will take them from the city all the way to \"Mr. X\"'s hideout on a desolate island.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/wa9uyng31n64n40wtk1f7/Streets-of-Rage-2-USA.md?rlkey=mxnta08vlj4itp2uk3zaujswc&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/onytygvxpjjrtrdj5sbsj/Streets-of-Rage-2-USA.md?rlkey=hwiupwxyj796mp0cna4xud5yh&dl=1"
           },
-          "added": 1694985657854
+          "added": 1695061467666
         },
         {
           "title": "Teenage Mutant Ninja Turtles - The Hyperstone Heist",
@@ -311,9 +470,9 @@
           "description": "Shredder steals the powerful Hyperstone to shrink New York City and it's up to you to teach that treacherous troublemaker not to mess with the fearless foursome! Pick your favorite Cowabunga commando to slash through 5 lawless levels of lambasting. Four levels each have 3 intense stages and the other is packed with brand new challenges that will make you hurl your pizza lunch. Pulverize shrink-happy Shredder before he pockets our whole planet!",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/8e65bjwy6n0j11sk6optj/Teenage-Mutant-Ninja-Turtles-The-Hyperstone-Heist-USA.md?rlkey=q3dctabfsyhupc7zsqmg9h5p6&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/ibqz6qbr1t5bo0b5hmd53/Teenage-Mutant-Ninja-Turtles-The-Hyperstone-Heist-USA.md?rlkey=vmk0an7i1m9np8lj3h96c5v15&dl=1"
           },
-          "added": 1694985657854
+          "added": 1695061467666
         },
         {
           "title": "Tiny Toon Adventures - Buster's Hidden Treasure",
@@ -324,9 +483,9 @@
           "description": "Buster Bunny's mission in this game is to trace down and defeat Montana Max, who has stolen and hidden some treasure as well as rescue Babs Bunny. Buster must go through several levels, including a volcano, an undersea adventure, a pirate ship, and a forest, among many other levels. However, many of his foes are out to stop him, including Roderick Rat and Gene Splicer, who has brainwashed several of Buster's friends, including Plucky Duck, Dizzy Devil and Hamton J Pig. Upon defeating Gene, the helmet used to control Buster's friends will fall off and explode, leaving them slightly confused about what has happened to them, or simply to fall down in a comical fashion, as in the case of Calamity Coyote.\n\nTo complete each level, Buster must find Gogo Dodo, who will allow him to jump through a portal. Additionally, Buster can find portals reminiscent of the show's rainbow-coloured logo, that will take Buster into Wackyland. Here, Buster must attempt to collect as many items as he can before touching one of the numerous Dodos that populate the level.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/r96uuaq3sn10gi58zf66o/Tiny-Toon-Adventures-Buster-s-Hidden-Treasure-USA.md?rlkey=4elw65bke6rki7lr5jirke24x&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/b9l8uflth296kp8c0g176/Tiny-Toon-Adventures-Buster-s-Hidden-Treasure-USA.md?rlkey=fofuugegdfntg115iubq3tpxx&dl=1"
           },
-          "added": 1694985657854
+          "added": 1695061467666
         },
         {
           "title": "World of Illusion Starring Mickey Mouse and Donald Duck",
@@ -337,12 +496,26 @@
           "description": "Mickey Mouse and Donald Duck are sucked into a magical world, while preparing for a magic act. Now they must survive over a dozen different side-scrolling levels, in order to return home.\n\nMickey and Donald can run, jump, or attack by flourishing their capes. Enemies defeated in this way turn into doves, cards, or other harmless objects depending on the enemy. After defeating the boss of each level, a new magic spell is learned, allowing the pair to traverse the next level; i.e. flying on a magic carpet or going underwater in an air bubble. This was one of the few Genesis games to feature voice samples.\nThe gameplay changes depending on if the player selects Mickey or Donald, in a one player mode, or if two people want to control both characters at once. For instance, Mickey can squeeze through certain gaps, while Donald must find a different route; if both are playing, Mickey can pull Donald through the gap. Either can stand on the others' shoulders to ascend higher, and lower a rope to pull the other up.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/210pzxyhbj2uotgax4uxi/World-of-Illusion-Starring-Mickey-Mouse-and-Donald-Duck-Europe.md?rlkey=df4xn4bplzz8l8w8n0e121euo&dl=1"
+            "rom": "https://www.dropbox.com/scl/fi/i8dej4t0g0h6r3hzqzzds/World-of-Illusion-Starring-Mickey-Mouse-and-Donald-Duck-Europe.md?rlkey=hkna8y6025sb3ofxslz3qukg4&dl=1"
           },
-          "added": 1694985657854
+          "added": 1695061467667
+        },
+        {
+          "title": "WWF Royal Rumble",
+          "longTitle": "WWF Royal Rumble (World)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/WWF%20Royal%20Rumble%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/WWF%20Royal%20Rumble%20(World).png",
+          "description": "Control one of twelve World Wrestling Federation stars in a \"no holds barred brawl\" -- in other words, do whatever moves you want, from choke holds, piledrivers, and even chair slams, until your opponent is knocked out. You can even go outside the ring if you like. Several modes of play are available, including one-on-one, tag team (two-on-two), and three-on-three tag team. You can play as the following WWF wresters: Bret Hart, Razor Ramon, Randy Savage, Shawn Michaels, The Undertaker, Tatanka, Mr. Perfect, Crush, Ric Flair, Yokozuna, Ted Dibiase, and Lex Luger.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/rwpsicht7qx8jhvw1abh0/WWF-Royal-Rumble-World.md?rlkey=ofh1wcslguzol2oqohv40xlbq&dl=1"
+          },
+          "added": 1695061467667
         }
       ]
     }
   ],
-  "props": {}
+  "props": {},
+  "backgroundPixelated": true
 }
